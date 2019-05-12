@@ -1,7 +1,7 @@
 # Browserstack Automation API Wrapper
 
 
-|**REST API REFERENCE: https://github.com/browserstack/api**|
+**REST API REFERENCE: https://github.com/browserstack/api**
 ---------------
 
 To get started You can create an account at https://www.browserstack.com/users/sign_in. If you then go to your [account profile](https://www.browserstack.com/accounts/automate)  to find your username and authentication key.
